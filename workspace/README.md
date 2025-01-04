@@ -1,3 +1,6 @@
+
+![image not loaded](workspace.drawio.png)
+
 ```
 terraform apply --var-file dev.tfvars
 terraform apply --var-file uat.tfvars
