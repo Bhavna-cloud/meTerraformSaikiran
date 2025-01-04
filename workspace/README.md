@@ -26,3 +26,12 @@ terraform destroy --auto-approve --var-file dev.tfvars
 
 ```
 Manually delete statefile from S3 bucket.
+
+```
+terraform workspace list
+terraform workspace new dev
+terraform workspace new uat
+terraform workspace new prod
+
+Check S3 bucket
+```
