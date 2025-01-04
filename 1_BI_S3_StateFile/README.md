@@ -1,2 +1,2 @@
 
-![image not loaded](image/singleInstance.drawio.png)
+![image not loaded](singleInstance.drawio.png)
