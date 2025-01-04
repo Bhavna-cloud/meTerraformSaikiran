@@ -1,5 +1,5 @@
 # meTerraformSaikiran
 
 
-![image not loaded](images/singleInstance.drawio.png)
+![image not loaded](image/singleInstance.drawio.png)
 
