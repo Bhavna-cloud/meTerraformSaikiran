@@ -21,3 +21,8 @@ OUTPUT:
 
 It Shows dev is replaced with uat. Means changes made in same state file. 
 ```
+```
+terraform destroy --auto-approve --var-file dev.tfvars
+
+```
+Manually delete statefile from S3 bucket.
